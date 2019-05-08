@@ -3,6 +3,8 @@ SecondUpload
 This: 
 
 yarn add react-native-image-picker
+
+
 react-native link react-native-image-picker
 
 Put this in your Android Manifest file:
